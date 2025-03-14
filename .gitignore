@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
+
+# 구글 애널리틱스 서비스 키
+/src/secrets/service-account-key.json
